@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Typescript, Next.js, React-Native**
 
-- 📫 How to reach me **parallelkim12@gmail.com**
+- 📫 How to reach me: **parallelkim12@gmail.com**
 
 ![image](https://user-images.githubusercontent.com/105257458/222663044-91f2151b-a06a-49d5-ae5e-e8125ccc6847.png)
 
