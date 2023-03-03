@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ParallelKim</h1>
 <h3 align="center">A noob frontend developer who play codes</h3>
 
+- 📖 I majored in **English**(Sejong) and **Philosophy**(Seoul) at Korea University.
+
 - 👨‍💻 All of my projects are available at [https://parallelkim.notion.site/81b7f986acb34a91b234d248b23c4e8c?v=9f5de6e67593448d99042f91d5dd0dc6](https://parallelkim.notion.site/81b7f986acb34a91b234d248b23c4e8c?v=9f5de6e67593448d99042f91d5dd0dc6)
 
 - 📝 I regularly write articles on [https://parallelkim.tistory.com/](https://parallelkim.tistory.com/)
