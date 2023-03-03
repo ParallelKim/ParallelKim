@@ -16,10 +16,8 @@
 - 📫 How to reach me: **parallelkim12@gmail.com**
 
 <p align="center">
-  <img src=["https://user-images.githubusercontent.com/105257458/222671040-1ef2253b-e99e-4d10-ae57-c5722a0ed29a.png"] height="300px" width="300px">
+  <img src=["https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/230762629_4164367263612120_8783020996235008173_n.jpg?stp=cp0_dst-jpg_e15_q65_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=8024bb&_nc_ohc=H3ROqe6z1gsAX9Or3nH&_nc_ht=scontent-ssn1-1.xx&oh=00_AfCKe3Qn6gNVIUsRSQXDiZFkLi57H0zJb0bN1rZllZmahw&oe=6405ABD2"] height="300px" width="300px">
 </p>
-
-![image](https://user-images.githubusercontent.com/105257458/222671040-1ef2253b-e99e-4d10-ae57-c5722a0ed29a.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
