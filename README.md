@@ -16,7 +16,7 @@
 - 📫 How to reach me: **parallelkim12@gmail.com**
 
 <p align="center">
-  <img src=["https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/3216485/3216485-1590551768712-0fd3a217acf18.jpg"] height="300px" width="300px">
+  <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/3216485/3216485-1590551768712-0fd3a217acf18.jpg" height="300px" width="300px">
 </p>
 
 
