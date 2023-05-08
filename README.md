@@ -5,15 +5,11 @@
   <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/3216485/3216485-1590551768712-0fd3a217acf18.jpg" height="300px" width="300px">
 </p>
 
-- 📖 I majored in **English**(Sejong) and **Philosophy**(Seoul) at Korea University.
+- 📖 I majored in **English** and **Philosophy**.
 
 - 🧐 I am interested in **Retro Games👾**, **Rock Music🎸** and **Making Something Cool🌟**.
 
-- 🔎 I am researching about **Pixi.JS**, **Three.JS** and **Chat GPT API** now.
-
-- 👨‍💻 All of my projects are available at [https://parallelkim.notion.site/81b7f986acb34a91b234d248b23c4e8c?v=9f5de6e67593448d99042f91d5dd0dc6](https://parallelkim.notion.site/81b7f986acb34a91b234d248b23c4e8c?v=9f5de6e67593448d99042f91d5dd0dc6)
-
-- 📝 I regularly write articles on [https://parallelkim.tistory.com/](https://parallelkim.tistory.com/)
+- 🔎 I am researching about **Firebase**, **Octokit(or Github API), and **React** now.
 
 - 💬 Ask me about **React, Typescript, Next.js, React-Native**
 
