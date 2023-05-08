@@ -9,7 +9,7 @@
 
 - 🧐 I am interested in **Retro Games👾**, **Rock Music🎸** and **Making Something Cool🌟**.
 
-- 🔎 I am researching about **Firebase**, **Octokit(or Github API), and **React** now.
+- 🔎 I am researching about **Firebase**, **Octokit(or Github API)**, and **React** now.
 
 - 💬 Ask me about **React, Typescript, Next.js, React-Native**
 
