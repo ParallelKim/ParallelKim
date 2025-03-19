@@ -11,7 +11,8 @@
 
 - 🔎 I am researching about **Angular**, **Three.js**, and **Typescript** now.
 
-- 💬 Ask me about **React, Typescript, Next.js, React-Native**
+- 💬 Ask me about **React, Typescript, Debugging and Website Optimization**
+  - (I can understand up to 80% of built or uglified code
 
 - 📫 How to reach me: **parallelkim12@gmail.com**
 
