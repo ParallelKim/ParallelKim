@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ParallelKim</h1>
-<h3 align="center">A noob frontend developer who play codes</h3>
+<h3 align="center">A frontend developer who play codes</h3>
 
 <p align="center">
   <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/3216485/3216485-1590551768712-0fd3a217acf18.jpg" height="300px" width="300px">
@@ -9,7 +9,7 @@
 
 - 🧐 I am interested in **Retro Games👾**, **Rock Music🎸** and **Making Something Cool🌟**.
 
-- 🔎 I am researching about **Firebase**, **Octokit(or Github API)**, and **React** now.
+- 🔎 I am researching about **Angular**, **Three.js**, and **Typescript** now.
 
 - 💬 Ask me about **React, Typescript, Next.js, React-Native**
 
